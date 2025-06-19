@@ -34,7 +34,7 @@ The course covers the basics of HTML, CSS, Flexbox, Grid, and responsive design,
 
 
 
-### 🛠 Technologies
+### Technologies
 
 - HTML5
 - CSS3
@@ -43,6 +43,6 @@ The course covers the basics of HTML, CSS, Flexbox, Grid, and responsive design,
 
 ---
 
-### 🏆 Certification Link (Coming Soon)
+### Certification Link (Coming Soon)
 
 I'll add the certification link here once it's completed.
