@@ -1,48 +1,44 @@
-# Web Development – freeCodeCamp Projects
+# Responsive Web Design Projects – freeCodeCamp
 
-This repository contains all the projects I’ve built while working through the [Responsive Web Design Certification](https://www.freecodecamp.org/learn/2022/responsive-web-design/) on freeCodeCamp.
+This repository contains all the final certification projects I completed as part of the **Responsive Web Design** course by [freeCodeCamp](https://www.freecodecamp.org/).
 
-The course covers the basics of HTML, CSS, Flexbox, Grid, and responsive design, and includes several hands-on projects.
+Through these projects, I practiced and applied core front-end development skills, including:
 
-##  Certification Progress
+- HTML5 and semantic structure  
+- CSS3 fundamentals  
+- Responsive layouts with Flexbox and CSS Grid  
+- Basic accessibility principles  
+- Mobile-first design  
 
-- [x] Learn HTML by Building a Cat Photo App
-- [x] Learn Basic CSS by Building a Cafe Menu
-- [x] Learn CSS Colors by Building a Markers Page
-- [x] Learn HTML Forms by Building a Registration Form
-- [x] Learn the Box Model by Building a Rothko Painting
-- [x] Learn CSS Flexbox by Building a Photo Gallery
-- [ ] Learn CSS Grid by Building a Magazine
-- [ ] Learn Typography by Building a Nutrition Label
-- [ ] Learn Accessibility by Building a Quiz
-- [ ] Learn Responsive Web Design by Building a Piano
-- [ ] Learn CSS Variables by Building a City Skyline
-- [ ] Learn CSS Transforms by Building a Penguin
-- [ ] Learn CSS Animation by Building a Ferris Wheel
-- [ ] Final Project: Build a Survey Form
+## 🏁 Certification
 
-## Projects
+These projects are required for the **Responsive Web Design Certification** from freeCodeCamp. Each project meets the specific user stories and passes all test cases provided by freeCodeCamp’s testing suite.
 
-- Cat Photo App (HTML basics) [View Folder](./01-cat-photo-app/) |
-- Cafe Menu (Basic CSS styling) [View Folder](./02-cafe-menu/) |
-- Colored Markers (CSS colors and layout) [View Folder](./03-colored-markers/) |
-- Registration Form (HTML forms) [View Folder](./04-registration-form/) |
-- Rothko Painting (CSS box model) [View Folder](./05-rothko-painting/) |
-- Photo Gallery (Flexbox layout) [View Folder](./06-photo-gallery/) |
+## Projects Included
 
-   _ More coming soon_
+- **Survey Form**  
+  A simple and accessible survey form built with HTML and CSS.
 
+- **Tribute Page**  
+  A tribute to a historical or notable person, using semantic HTML elements.
 
+- **Technical Documentation Page**  
+  A structured technical documentation with a fixed navigation layout.
 
-### Technologies
+- **Product Landing Page**  
+  A responsive landing page for a fictional product or service.
 
-- HTML5
-- CSS3
-- Flexbox & Grid
-- Responsive Design Principles
+- **Personal Portfolio Webpage**  
+  A portfolio page showcasing the other projects.
 
----
+## 🔧 Tools and Technologies
 
-### Certification Link (Coming Soon)
+- HTML5  
+- CSS3  
+- Responsive Web Design Principles  
+- Flexbox  
+- CSS Grid
 
-I'll add the certification link here once it's completed.
+## License
+
+This repository is for educational purposes as part of the freeCodeCamp curriculum.
