@@ -10,7 +10,7 @@ Through these projects, I practiced and applied core front-end development skill
 - Basic accessibility principles  
 - Mobile-first design  
 
-## 🏁 Certification
+## Certification
 
 These projects are required for the **Responsive Web Design Certification** from freeCodeCamp. Each project meets the specific user stories and passes all test cases provided by freeCodeCamp’s testing suite.
 
